@@ -1,0 +1,9 @@
+{
+  "semi": false,          // 结尾不加分号
+  "singleQuote": true,    // 使用单引号
+  "printWidth": 120,      // 每行最大宽度
+  "tabWidth": 2,          // 缩进空格数
+  "trailingComma": "none",// 结尾不加逗号
+  "bracketSpacing": true, // 对象括号加空格 { foo: bar }
+  "arrowParens": "avoid"  // 箭头函数单参数省略括号 x => x
+}
